@@ -1,6 +1,6 @@
 # UltraEmojiCombat
 
-### Esse projeto consiste em uma luta entre emojis. A luta pode ocorrer de diferentes maneiras:
+### Esse projeto consiste em uma luta entre emojis. A luta pode ocorrer seguindo diferentes critérios:
 - RPG
 - Aleatoriamente/randômicamente
 - Critérios de pontuação
