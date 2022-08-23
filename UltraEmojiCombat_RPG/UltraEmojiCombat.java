@@ -27,7 +27,7 @@ public class UltraEmojiCombat { //Classe Principal
         fight.marcarLuta(l[0], l[1]);
         fight.lutar(l[0], l[1]);
         //l[0].status();
-        // l[0].status();
+        //l[0].status();
        
     }
     
